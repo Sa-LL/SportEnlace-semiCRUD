@@ -1,5 +1,7 @@
 # SportEnlace
 
+Se usó un proxy para solucionar problemas con CORS al momento de hacer peticiones al servidor.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
 ## Development server
